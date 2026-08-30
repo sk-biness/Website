@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "newa-bhakti",
+    "name": "804, Newa Bhakti Park",
+    "location": "Airoli",
+    "area": "1450 sq ft"
+  },
+  {
+    "slug": "duplex-airoli",
+    "name": "Duplex Flat",
+    "location": "Airoli",
+    "area": "3800 sq ft"
+  },
+  {
+    "slug": "sheth-montana",
+    "name": "Sheth Montana",
+    "location": "Mulund",
+    "area": "2050 sq ft"
+  },
+  {
+    "slug": "clubhouse",
+    "name": "Clubhouse",
+    "location": "Newa Bhakti Park, Airoli",
+    "area": "8000+ sq ft"
+  },
+  {
+    "slug": "lobby",
+    "name": "B Wing Lobby",
+    "location": "Newa Bhakti Park, Airoli",
+    "area": "2500 sq ft"
+  },
+  {
+    "slug": "samata-clinic",
+    "name": "Samata Clinic",
+    "location": "Mulund West",
+    "area": "450 sq ft"
+  },
+  {
+    "slug": "sbi-office",
+    "name": "SBI Office",
+    "location": "Newa BKC, Airoli",
+    "area": "1,25,000 sq ft"
+  }
+]
