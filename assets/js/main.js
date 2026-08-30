@@ -5,7 +5,7 @@
      Paste your Google Apps Script Web App URL here after deploying it.
      See google-apps-script.gs and README.md for the 5-minute setup.
      Until this is filled in, the form will show an error instead of sending. */
-  var CONTACT_FORM_ENDPOINT = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE";
+  var CONTACT_FORM_ENDPOINT = "https://script.google.com/macros/s/AKfycbzvpqAZfFFtntgOd6d-ho8DNGIyfrE9t2DNKajHyZKD1B93aKpGe0B-RVrE_RTb3UWlgQ/exec";
 
   /* ---------- sticky header state ---------- */
   var header = document.querySelector(".site-header");
